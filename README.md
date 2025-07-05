@@ -24,7 +24,7 @@ This platform transforms raw research data into professionally structured scient
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/yusadankamu/convertsearch.git
 
 # Install dependencies
 npm install
